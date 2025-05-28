@@ -1,4 +1,4 @@
-# marketing-agents
+# Social Media Agents
 
 An AI-powered multi-agent system that automatically discovers marketing trends and creates relevant content for social media platforms.
 
